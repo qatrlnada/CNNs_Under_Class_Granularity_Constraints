@@ -81,7 +81,7 @@ CMP5103project/
 \- artifacts/models/ 
 
      Contains txt file with the directions of the models weights location under the releases section
-     the releases link: https://github.com/qatrlnadaalmarzq/CMP5103-project/releases/tag/v1.0-models
+the releases link: https://github.com/qatrlnadaalmarzq/CMP5103-project/releases/tag/v1.0-models
 
 
 
@@ -257,6 +257,7 @@ If any artifact file is missing, the notebook will print a clear message and ski
 * Evaluation does not require retraining
 * Missing artifacts are handled gracefully
 * Results are deterministic given the saved artifacts
+
 
 
 
