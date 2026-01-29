@@ -87,7 +87,7 @@ CMP5103project/
 
 \- artifacts/histories/ 
 
-     Contains training history files (`.npy`) used for plotting learning curves and comparisons.
+     Contains training history files (.npy) used for plotting learning curves and comparisons.
 
 
 
@@ -260,6 +260,7 @@ If any artifact file is missing, the notebook will print a clear message and ski
 * Evaluation does not require retraining
 * Missing artifacts are handled gracefully
 * Results are deterministic given the saved artifacts
+
 
 
 
