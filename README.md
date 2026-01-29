@@ -54,7 +54,7 @@ CMP5103project/
 
     ├── requirements.txt     
 
-    ├── Source Code/
+    ├── Code/
 
        └── CMP5103notebook.ipynb
 
@@ -72,7 +72,7 @@ CMP5103project/
 
 
 
-\- notebooks/  
+\- Code/  
 
      Contains the main project notebook with all experiments, testing, evaluation, and visualizations.
 
@@ -81,6 +81,7 @@ CMP5103project/
 \- artifacts/models/ 
 
      Contains txt file with the directions of the models weights location under the releases section
+     the releases link: https://github.com/qatrlnadaalmarzq/CMP5103-project/releases/tag/v1.0-models
 
 
 
@@ -153,7 +154,7 @@ USE_PRETRAINED = True/False
 
 
 
-How to Run (Evaluation-Only Mode – Recommended)
+## How to Run (Evaluation-Only Mode – Recommended)
 
 
 
@@ -256,6 +257,7 @@ If any artifact file is missing, the notebook will print a clear message and ski
 * Evaluation does not require retraining
 * Missing artifacts are handled gracefully
 * Results are deterministic given the saved artifacts
+
 
 
 
