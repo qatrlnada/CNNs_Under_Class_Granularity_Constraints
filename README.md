@@ -1,4 +1,4 @@
-# CMP5103 – CNN Performance Under Class Granularity Constraints
+# CNN Performance Under Class Granularity Constraints
 
 
 
@@ -260,6 +260,7 @@ If any artifact file is missing, the notebook will print a clear message and ski
 * Evaluation does not require retraining
 * Missing artifacts are handled gracefully
 * Results are deterministic given the saved artifacts
+
 
 
 
