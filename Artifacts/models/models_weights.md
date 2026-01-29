@@ -3,4 +3,4 @@ the models weights are too large to be uploaded to GitHub as a regular file ther
 you can see them under the releases section on the lower right corner of the repository main page
 
 the releases section link:
-https://github.com/qatrlnadaalmarzq/CMP5103-project/releases/tag/v1.0-models
+https://github.com/qatrlnada/CNNs_Under_Class_Granularity_Constraints/releases/tag/v1.0-models
